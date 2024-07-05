@@ -26,5 +26,5 @@
 ### Help #️⃣
 - If you wanna send us some feedbacks, or suggest some features -- email `jaya90ge@gmail.com`, i may not respond or email back, but i do read the emails sent.
 - Please continue supporting us, no need to donate as this app is made by A.I, so its not kinda hard to make. Its just how to describe everyting to A.I that makes this hard.
-
+- This app is fully source code, meaning you can modify the app, or change it as much as you like. Make different versions of it, Its totally fine! Goodluck!
  "I cant" -- Me
